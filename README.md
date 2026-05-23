@@ -1,5 +1,8 @@
 # nigeria-energy-infrastructure-analysis
 
+## Dashboard Preview
+![Dashboard Preview](Electricity%20Analysis%20Dashboard.png)
+
 ## Project Overview
 Analysis of electricity infrastructure, generation capacity, and electricity access across Nigerian states using SQL and Power BI
 
